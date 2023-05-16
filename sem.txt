@@ -1,6 +1,9 @@
 YES
 Hello world!
-New line added
-Another line addderrd
+<<<<<<< HEAD
+=======
+New line adddded
+Another line addeeeeed
 Ho-Ho-Ho
-GIT TRAININMMG 2023
+Git Training 2023
+>>>>>>> realwork
